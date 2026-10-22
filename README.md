@@ -1,5 +1,3 @@
-<dark-mode-toggle>
-
 # big update up and coming!!!
 In this new update that is still a work in progress, 5 new things will be added.
 - While Loop
@@ -13,6 +11,7 @@ In this new update that is still a work in progress, 5 new things will be added.
 > Here is some syntax examples below
 
 > note: subject to change.
+
 ```
 # make a list
 list [ini] &myList "everything" "after" "is" "all" "added" "to" "the" "list."
