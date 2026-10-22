@@ -1,3 +1,5 @@
+<dark-mode-toggle>
+
 # big update up and coming!!!
 In this new update that is still a work in progress, 5 new things will be added.
 - While Loop
