@@ -40,3 +40,7 @@ if 1 == 5 {
   io t out "Even another example print" [d]
 }
 ```
+
+
+*Note:*
+*Source code will be released once the interpreter is released.*
